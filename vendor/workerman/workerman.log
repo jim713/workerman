@@ -37,3 +37,13 @@
 2018-11-27 16:49:34 pid:13138 Workerman[ws_test.php] start in DAEMON mode
 2018-11-27 16:49:48 pid:13155 Workerman[http_test.php] start in DAEMON mode
 2018-11-27 16:53:49 pid:13361 Workerman[tcp_test.php] start in DAEMON mode
+2018-11-27 19:58:08 pid:11615 Workerman[http_test.php] start in DEBUG mode
+2018-11-27 21:26:33 pid:15705 Workerman[http_test.php] start in DEBUG mode
+2018-11-27 21:26:45 pid:15732 Workerman[http_test.php] start in DEBUG mode
+2018-11-27 21:28:12 pid:15856 Workerman[start.php] start in DEBUG mode
+2018-11-27 21:28:14 pid:15856 Workerman[start.php] stopping ...
+2018-11-27 21:28:14 pid:15856 Workerman[start.php] has been stopped
+2018-11-27 21:28:28 pid:15876 Workerman[http_test.php] start in DEBUG mode
+2018-11-27 21:28:30 pid:15876 Workerman[http_test.php] stopping ...
+2018-11-27 21:28:30 pid:15876 Workerman[http_test.php] has been stopped
+2018-11-27 21:28:45 pid:15905 Workerman[http_test.php] start in DEBUG mode
