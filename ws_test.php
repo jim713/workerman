@@ -9,7 +9,7 @@
 ini_set('display_errors', 'on');
 use Workerman\Worker;
 
-require_once __DIR__ . '/vendor/autoload.php';
+require_once __DIR__ . '/Autoloader.php';
 
 // 注意：这里与上个例子不同，使用的是websocket协议
 $ws_worker = new Worker("websocket://0.0.0.0:2000");
