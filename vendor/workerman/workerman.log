@@ -1,0 +1,54 @@
+2018-11-26 16:51:10 pid:63499 Workerman[start.php] start in DAEMON mode
+2018-11-26 16:51:18 pid:63515 Workerman[start.php] start in DEBUG mode
+2018-11-26 16:51:18 pid:63515 Workerman[start.php] already running
+2018-11-26 16:51:40 pid:63525 Workerman[start.php] restart 
+2018-11-26 16:51:40 pid:63525 Workerman[start.php] is stopping ...
+2018-11-26 16:51:40 pid:63501 Workerman[start.php] stopping ...
+2018-11-26 16:51:40 pid:63501 Workerman[start.php] has been stopped
+2018-11-26 16:51:40 pid:63525 Workerman[start.php] stop success
+2018-11-26 16:52:01 pid:63525 Workerman[start.php] stopping ...
+2018-11-26 16:52:01 pid:63525 Workerman[start.php] has been stopped
+2018-11-26 16:52:02 pid:63547 Workerman[start.php] status 
+2018-11-26 16:52:02 pid:63547 Workerman[start.php] not run
+2018-11-26 16:52:12 pid:63551 Workerman[start.php] start in DEBUG mode
+2018-11-26 17:03:37 pid:63551 Workerman[start.php] stopping ...
+2018-11-26 17:03:37 pid:63551 Workerman[start.php] has been stopped
+2018-11-26 17:03:42 pid:63821 Workerman[start.php] start in DAEMON mode
+2018-11-27 10:06:59 pid:63823 Workerman[start.php] stopping ...
+2018-11-27 10:09:03 pid:766 Workerman[start.php] start in DEBUG mode
+2018-11-27 10:09:07 pid:766 Workerman[start.php] stopping ...
+2018-11-27 10:09:07 pid:766 Workerman[start.php] has been stopped
+2018-11-27 10:14:53 pid:1106 Workerman[start.php] start in DEBUG mode
+2018-11-27 10:14:55 pid:1106 Workerman[start.php] stopping ...
+2018-11-27 10:14:55 pid:1106 Workerman[start.php] has been stopped
+2018-11-27 10:28:20 pid:1709 Workerman[start.php] start in DEBUG mode
+2018-11-27 10:28:23 pid:1709 Workerman[start.php] stopping ...
+2018-11-27 10:28:23 pid:1709 Workerman[start.php] has been stopped
+2018-11-27 10:28:26 pid:1724 Workerman[start.php] stop 
+2018-11-27 10:28:26 pid:1724 Workerman[start.php] not run
+2018-11-27 10:34:24 pid:1873 Workerman[start.php] start in DEBUG mode
+2018-11-27 10:34:31 pid:1873 Workerman[start.php] stopping ...
+2018-11-27 10:34:31 pid:1873 Workerman[start.php] has been stopped
+2018-11-27 10:45:58 pid:2230 Workerman[http_test.php] start in DEBUG mode
+2018-11-27 16:41:03 pid:12523 Workerman[http_test.php] start in DEBUG mode
+2018-11-27 16:41:19 pid:12542 Workerman[http_test.php] start in DEBUG mode
+2018-11-27 16:47:58 pid:12542 Workerman[http_test.php] stopping ...
+2018-11-27 16:47:58 pid:12542 Workerman[http_test.php] has been stopped
+2018-11-27 16:49:34 pid:13138 Workerman[ws_test.php] start in DAEMON mode
+2018-11-27 16:49:48 pid:13155 Workerman[http_test.php] start in DAEMON mode
+2018-11-27 16:53:49 pid:13361 Workerman[tcp_test.php] start in DAEMON mode
+2018-11-27 17:02:20 pid:14472 Workerman[tcp_test.php] stop 
+2018-11-27 17:02:20 pid:14472 Workerman[tcp_test.php] is stopping ...
+2018-11-27 17:02:20 pid:13363 Workerman[tcp_test.php] stopping ...
+2018-11-27 17:02:20 pid:13363 Workerman[tcp_test.php] has been stopped
+2018-11-27 17:02:20 pid:14472 Workerman[tcp_test.php] stop success
+2018-11-27 17:02:30 pid:14483 Workerman[http_test.php] stop 
+2018-11-27 17:02:30 pid:14483 Workerman[http_test.php] is stopping ...
+2018-11-27 17:02:30 pid:13157 Workerman[http_test.php] stopping ...
+2018-11-27 17:02:30 pid:13157 Workerman[http_test.php] has been stopped
+2018-11-27 17:02:30 pid:14483 Workerman[http_test.php] stop success
+2018-11-27 17:02:45 pid:14499 Workerman[ws_test.php] stop 
+2018-11-27 17:02:45 pid:14499 Workerman[ws_test.php] is stopping ...
+2018-11-27 17:02:45 pid:13140 Workerman[ws_test.php] stopping ...
+2018-11-27 17:02:45 pid:13140 Workerman[ws_test.php] has been stopped
+2018-11-27 17:02:45 pid:14499 Workerman[ws_test.php] stop success
